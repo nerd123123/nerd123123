@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nerd123123
 - 👀 I’m interested in coding... duh
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on meh
 - 📫 How to reach me ... don't
 
